@@ -1,6 +1,6 @@
 # FinTrust Risk Review Prediction
 
-Data Science track project for the **AnalystLab Africa Experience Lab** — a 4-week
+Data Science track project for the **AnalystLab Africa Experience Lab**  a 4-week
 multidisciplinary program built around a fictional digital bank, **FinTrust Digital Bank**.
 
 > **Disclaimer:** FinTrust is a fictional organisation. All customers, transactions,
@@ -11,7 +11,7 @@ multidisciplinary program built around a fictional digital bank, **FinTrust Digi
 
 Determine how machine learning can support FinTrust's risk-related decision-making by
 predicting whether a transaction should be flagged for **risk review**
-(`Risk_Review_Flag`) — a binary classification problem built on synthetic customer and
+(`Risk_Review_Flag`)  a binary classification problem built on synthetic customer and
 transaction data.
 
 ## Project Context
@@ -50,15 +50,15 @@ fintrust-risk-review-prediction/
 | `FinTrust_Transaction_Data.csv` | Synthetic transaction-level information (12,000 records) |
 | `FinTrust_Data_Dictionary.xlsx` | Field definitions, business meaning and modelling guidance |
 
-Target variable: `Risk_Review_Flag` (`Yes` / `No`) — imbalanced at roughly 80.4% / 19.6%.
+Target variable: `Risk_Review_Flag` (`Yes` / `No`) imbalanced at roughly 80.4% / 19.6%.
 
 ## Progress
 
-- [x] **Week 1 — Understand & Plan:** Predictive problem statement, target assessment,
+- [x] **Week 1 : Understand & Plan:** Predictive problem statement, target assessment,
   candidate feature table, hypotheses, initial modelling plan, data-quality observations.
-- [ ] **Week 2 — Analyse & Prepare:** Data preparation, EDA, feature engineering.
-- [ ] **Week 3 — Develop & Integrate:** Model training, evaluation, cross-track integration.
-- [ ] **Week 4 — Test, Refine & Present:** Final validation, refinement, presentation.
+- [ ] **Week 2 :Analyse & Prepare:** Data preparation, EDA, feature engineering.
+- [ ] **Week 3 :Develop & Integrate:** Model training, evaluation, cross-track integration.
+- [ ] **Week 4 :Test, Refine & Present:** Final validation, refinement, presentation.
 
 ## Tools
 
