@@ -70,4 +70,4 @@ Python · Pandas · NumPy · Scikit-learn · Jupyter Notebook / Google Colab · 
 [GitHub](https://github.com/mulundaarchimede-del)
 
 ---
-*Part of the AnalystLab Africa Experience Lab — #AnalystLabAfrica*
+*Part of the AnalystLab Africa Experience Lab  #AnalystLabAfrica*
