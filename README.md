@@ -3,9 +3,9 @@
 Data Science track project for the **AnalystLab Africa Experience Lab**  a 4-week
 multidisciplinary program built around a fictional digital bank, **FinTrust Digital Bank**.
 
-> **Disclaimer:** FinTrust is a fictional organisation. All customers, transactions,
-> labels and business information used in this project are **synthetic** and intended
-> for educational purposes only.
+**Disclaimer:** FinTrust is a fictional organisation. All customers, transactions,
+ labels and business information used in this project are **synthetic** and intended
+ for educational purposes only.
 
 ## Objective
 
